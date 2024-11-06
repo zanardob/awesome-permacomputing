@@ -19,6 +19,7 @@
   - [Damaged Earth Catalog](https://damaged.bleu255.com/) – A growing online catalog of the different terms in circulation.
   - [XXIIVV](https://wiki.xxiivv.com/site/home.html) – Ideas and notes on technology, art, language, and philosophy.
   - [The Luddite](https://theluddite.org/) – A skeptical look at technology and its impact on society.
+  - [Frugal Computing](https://frugalcomputing.neocities.org/) – Articles on minimizing resource waste.
 
 ### Texts
   - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html). Ville-Matias Heikkilä. (2020).
