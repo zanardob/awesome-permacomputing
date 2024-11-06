@@ -11,6 +11,7 @@
   - [Texts](#texts)
 - [Projects](#projects)
   - [Software](#software)
+    - [Operating-Systems](#operating-systems) 
     - [Tools](#tools)
 - [Communities](#communities)
   - [Collectives](#collectives)
@@ -37,8 +38,11 @@
 
 ### Software
 
+#### Operating Systems
+  - [Collapse OS](http://collapseos.org/) – Forth-based operating system designed for post-collapse scenarios.
+
 #### Tools
-  - **[TLP](https://linrunner.de/tlp/)** – Linux power management tool to extend battery life.
+  - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
 
 ## Communities
 
