@@ -18,6 +18,7 @@
     - [Tools](#tools)
 - [Communities](#communities)
   - [Collectives](#collectives)
+  - [Forums](#forums)
     
 
 ## Resources
@@ -29,7 +30,7 @@
   - [Damaged Earth Catalog](https://damaged.bleu255.com/) – A growing online catalog of the different terms in circulation.
   - [XXIIVV](https://wiki.xxiivv.com/site/home.html) – Ideas and notes on technology, art, language, and philosophy.
   - [The Luddite](https://theluddite.org/) – A skeptical look at technology and its impact on society.
-  - [Frugal Computing](https://frugalcomputing.neocities.org/) – Articles on minimizing resource waste.
+  - [Frugal Computing](https://frugalcomputing.neocities.org/) – A blog about energy-efficient computing and hardware reuse.
 
 ### Texts
   - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html). Ville-Matias Heikkilä. (2020).
@@ -59,4 +60,8 @@
 
 ### Collectives
 
-  - [Computing within Limits](https://limits.pubpub.org/) – An annual workshop concerning the role of computing in human societies affected by real-world limits. 
+  - [Computing within Limits](https://limits.pubpub.org/) – An annual workshop concerning the role of computing in human societies affected by real-world limits.
+
+### Forums
+ - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
+ - [Permacomputing on the SDF Chatter Lemmy instance](https://lemmy.sdf.org/c/permacomputing)
