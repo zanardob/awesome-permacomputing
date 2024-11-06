@@ -12,6 +12,9 @@
 - [Projects](#projects)
   - [Software](#software)
     - [Tools](#tools)
+- [Communities](#communities)
+  - [Collectives](#collectives)
+    
 
 ## Resources
 
@@ -36,3 +39,9 @@
 
 #### Tools
   - **[TLP](https://linrunner.de/tlp/)** – Linux power management tool to extend battery life.
+
+## Communities
+
+### Collectives
+
+  - [Computing within Limits](https://limits.pubpub.org/) – An annual workshop concerning the role of computing in human societies affected by real-world limits. 
