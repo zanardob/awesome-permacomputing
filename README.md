@@ -13,3 +13,4 @@
 
 ### Wikis and Blogs
   - **[Permacomputing](https://permacomputing.net)** – A wiki for permacomputing.
+  - **[Low Tech Magazine](https://www.lowtechmagazine.com/)** – Articles about solving human problems with low-tech solutions.
