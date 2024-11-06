@@ -21,4 +21,4 @@
   - **[The Luddite](https://theluddite.org/)** – A skeptical look at technology and its impact on society.
 
 ### Texts
-  - **[Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html)** – Viznut's original text.
+  - **[Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html)**, Viznut, 2020 – Viznut's original text.
