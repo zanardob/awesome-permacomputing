@@ -17,3 +17,4 @@
   - **[Monoskop](https://monoskop.org/)** – A wiki for arts and studies.
   - **[Damaged Earth Catalog](https://damaged.bleu255.com/)** – A growing online catalog of the different terms in circulation.
   - **[XXIIVV](https://wiki.xxiivv.com/site/home.html)** – Ideas and notes on technology, art, language, and philosophy.
+  - **[The Luddite](https://theluddite.org/)** – A skeptical look at technology and its impact on society.
