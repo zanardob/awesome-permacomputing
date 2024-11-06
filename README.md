@@ -48,6 +48,9 @@
 #### Operating Systems
   - [Collapse OS](http://collapseos.org/) – Forth-based operating system designed for post-collapse scenarios.
 
+#### Search Engines
+  - [DuckDuckGo Lite](https://lite.duckduckgo.com/lite) – A minimal version of the DuckDuckGo search engine.
+
 #### Tools
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
 
