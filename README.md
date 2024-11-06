@@ -8,6 +8,7 @@
 
 - [Resources](#resources)
   - [Wikis and Blogs](#wikis-and-blogs)
+  - [Texts](#texts)
 
 ## Resources
 
@@ -18,3 +19,6 @@
   - **[Damaged Earth Catalog](https://damaged.bleu255.com/)** – A growing online catalog of the different terms in circulation.
   - **[XXIIVV](https://wiki.xxiivv.com/site/home.html)** – Ideas and notes on technology, art, language, and philosophy.
   - **[The Luddite](https://theluddite.org/)** – A skeptical look at technology and its impact on society.
+
+### Texts
+  - **[Viznut's original text](http://viznut.fi/files/texts-en/permacomputing.html)** – Thoughts regarding the application of permacultural ideas to the computer world.
