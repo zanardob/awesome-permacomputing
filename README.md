@@ -24,4 +24,4 @@
   - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html). Ville-Matias Heikkilä. (2020).
   - [A holistic approach to computing and sustainability inspired from permaculture](https://wiki.xxiivv.com/site/permacomputing.html). Devine Lu Linvega. (2021).
   - [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture](https://limits.pubpub.org/pub/6loh1eqi/release/1). Aymeric Mansoux, Brendan Howell, Dušan Barok, and Ville-Matias Heikkilä. (2023).
-  
+  - [The Oceanic provenance of Permacomputing and Computational poetics](https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/). Nancy Mauro-Flude. (2024).
