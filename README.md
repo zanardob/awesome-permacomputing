@@ -11,7 +11,7 @@
   - [Texts](#texts)
 - [Projects](#projects)
   - [Software](#software)
-    - [Operating-Systems](#operating-systems) 
+    - [Operating Systems](#operating-systems) 
     - [Tools](#tools)
 - [Communities](#communities)
   - [Collectives](#collectives)
