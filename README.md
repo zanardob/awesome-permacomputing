@@ -105,3 +105,4 @@
 ### Forums
  - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
  - [Permacomputing on the SDF Chatter Lemmy instance](https://lemmy.sdf.org/c/permacomputing)
+ - [Lobsters](https://lobste.rs/)
