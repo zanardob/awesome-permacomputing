@@ -10,7 +10,7 @@
   - [Wikis and Blogs](#wikis-and-blogs)
   - [Texts](#texts)
   - [Books](#books)
-    - [Non-Fiction](#non-fiction)
+    - [Technical](#technical)
   - [Audiovisual](#audiovisual)
     - [Documentaries](#documentaries)
     - [Talks](#talks)
@@ -47,7 +47,7 @@
   - [The Oceanic provenance of Permacomputing and Computational poetics](https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/). Nancy Mauro-Flude. (2024).
 
 ### Books
-  #### Non-Fiction
+  #### Technical
   - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html). Eric S. Raymond. (2003).
 
 ### Audiovisual
