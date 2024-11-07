@@ -62,6 +62,7 @@
 ### Collectives
 
   - [Computing within Limits](https://limits.pubpub.org/) – An annual workshop concerning the role of computing in human societies affected by real-world limits.
+  - [Small File Media Festival](https://smallfile.ca/) - A film festival in Canada, focused on short films with file sizes less than five megabytes.
 
 ### Forums
  - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
