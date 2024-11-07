@@ -10,7 +10,9 @@
   - [Wikis and Blogs](#wikis-and-blogs)
   - [Texts](#texts)
   - [Books](#books)
-    - [Non-Fiction](#non-fiction) 
+    - [Non-Fiction](#non-fiction)
+  - [Audiovisual](#audiovisual)
+    - [Non-Fiction](#non-fiction)
 - [Projects](#projects)
   - [Software](#software)
     - [Operating Systems](#operating-systems)
@@ -46,6 +48,9 @@
   #### Non-Fiction
   - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html). Eric S. Raymond. (2003).
 
+### Audiovisual
+  #### Non-Fiction
+  - [Death by Design](https://www.imdb.com/title/tt5693890/) (2016).
 
 ## Projects
 
