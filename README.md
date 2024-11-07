@@ -36,6 +36,7 @@
   - [XXIIVV](https://wiki.xxiivv.com/site/home.html) – Ideas and notes on technology, art, language, and philosophy.
   - [The Luddite](https://theluddite.org/) – A skeptical look at technology and its impact on society.
   - [Frugal Computing](https://frugalcomputing.neocities.org/) – Ideas and notes on frugal computing.
+  - [Modding Fridays](https://moddingfridays.bleu255.com/) – A wiki about maintenance, repurposing, and reappropriation of supposedly obsolete electronics.
 
 ### Texts
   - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html). Ville-Matias Heikkilä. (2020).
