@@ -18,6 +18,7 @@
   - [Software](#software)
     - [Operating Systems](#operating-systems)
     - [Code Editors](#code-editors)
+    - [Browsers](#browsers)
     - [Search Engines](#search-engines)
     - [Tools](#tools)
   - [Hardware](#hardware)
@@ -71,6 +72,9 @@
 
 #### Code Editors
   - [Vim](https://www.vim.org/) – Highly efficient, customizable, and lightweight text editor.
+
+#### Browsers
+  - [Dillo](https://dillo.org/) – A multi-platform graphical web browser, focused on speed and minimal resource usage.
 
 #### Search Engines
   - [DuckDuckGo Lite](https://lite.duckduckgo.com/lite) – A minimal version of the DuckDuckGo search engine.
