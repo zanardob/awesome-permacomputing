@@ -55,10 +55,11 @@
   - [Death by Design](https://www.imdb.com/title/tt5693890/) (2016).
 
   #### Talks
-  - [Electronics Ecologies #1 - Repair](https://www.youtube.com/playlist?list=PLE_y90GftjpbQr8TyY-md0znvPrsrfHd8)
-  - [Electronics Ecologies #2 - Waste](https://www.youtube.com/playlist?list=PLE_y90GftjpZbr0HN3dZZ9eJ36LtyHzXQ)
-  - [Electronics Ecologies #3 - Energy](https://www.youtube.com/playlist?list=PLE_y90GftjpY1jBRaT0kdJxZV1SkF2-Zm)
-  - [Electronics Ecologies #4 - Manufacturing](https://www.youtube.com/playlist?list=PLE_y90GftjpaX_vV7Q5QHOSmhJa0DEmB0)
+  - [Electronics Ecologies #1 - Repair](https://www.youtube.com/playlist?list=PLE_y90GftjpbQr8TyY-md0znvPrsrfHd8) (2023).
+  - [Electronics Ecologies #2 - Waste](https://www.youtube.com/playlist?list=PLE_y90GftjpZbr0HN3dZZ9eJ36LtyHzXQ) (2023).
+  - [Electronics Ecologies #3 - Energy](https://www.youtube.com/playlist?list=PLE_y90GftjpY1jBRaT0kdJxZV1SkF2-Zm) (2023).
+  - [Electronics Ecologies #4 - Manufacturing](https://www.youtube.com/playlist?list=PLE_y90GftjpaX_vV7Q5QHOSmhJa0DEmB0) (2023).
+  - [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM&t=591s) (2023).
 
 ## Projects
 
