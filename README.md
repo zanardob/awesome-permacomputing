@@ -12,7 +12,8 @@
   - [Books](#books)
     - [Non-Fiction](#non-fiction)
   - [Audiovisual](#audiovisual)
-    - [Non-Fiction](#non-fiction)
+    - [Documentaries](#documentaries)
+    - [Talks](#talks)
 - [Projects](#projects)
   - [Software](#software)
     - [Operating Systems](#operating-systems)
@@ -50,8 +51,14 @@
   - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html). Eric S. Raymond. (2003).
 
 ### Audiovisual
-  #### Non-Fiction
+  #### Documentaries
   - [Death by Design](https://www.imdb.com/title/tt5693890/) (2016).
+
+  #### Talks
+  - [Electronics Ecologies #1 - Repair](https://www.youtube.com/playlist?list=PLE_y90GftjpbQr8TyY-md0znvPrsrfHd8)
+  - [Electronics Ecologies #2 - Waste](https://www.youtube.com/playlist?list=PLE_y90GftjpZbr0HN3dZZ9eJ36LtyHzXQ)
+  - [Electronics Ecologies #3 - Energy](https://www.youtube.com/playlist?list=PLE_y90GftjpY1jBRaT0kdJxZV1SkF2-Zm)
+  - [Electronics Ecologies #4 - Manufacturing](https://www.youtube.com/playlist?list=PLE_y90GftjpaX_vV7Q5QHOSmhJa0DEmB0)
 
 ## Projects
 
