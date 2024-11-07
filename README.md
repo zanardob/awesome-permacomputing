@@ -18,6 +18,7 @@
     - [Tools](#tools)
   - [Hardware](#hardware)
     - [Devices](#devices)
+    - [Repairing](#repairing)
 - [Communities](#communities)
   - [Collectives](#collectives)
   - [Forums](#forums)
@@ -63,7 +64,10 @@
 ### Hardware
 
 #### Devices
-  - [Framework](https://frame.work/) – Customizable, repairable hardware.
+  - [Framework](https://frame.work/) – Customizable, repairable laptops.
+
+### Repairing
+  - **[iFixit](https://www.ifixit.com/Guide)** – Step-by-step guides for repairing various devices.
 
 ## Communities
 
