@@ -76,6 +76,7 @@
   - [DuckDuckGo Lite](https://lite.duckduckgo.com/lite) – A minimal version of the DuckDuckGo search engine.
 
 #### Tools
+  - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
 
 
