@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-> A knowledge collection of resources, projects, communities, and general information on **permacomputing** – sustainable and regenerative computing practices inspired by permaculture principles.
+> A knowledge collection of resources, projects, communities, and general information on **permacomputing** — sustainable and regenerative computing practices inspired by permaculture principles.
 
 ## Contents
 
@@ -21,6 +21,7 @@
     - [Browsers](#browsers)
     - [Search Engines](#search-engines)
     - [Tools](#tools)
+    - [Social Networks](#social-networks)
   - [Hardware](#hardware)
     - [Devices](#devices)
     - [Repairing](#repairing)
@@ -83,6 +84,8 @@
   - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
 
+#### Social Networks
+  - [Scuttlebutt](https://scuttlebutt.nz/) – A decentralised, low-bandwidth social network that works offline and is powered by a peer-to-peer gossip protocol.
 
 ### Hardware
 
