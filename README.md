@@ -17,6 +17,7 @@
 - [Projects](#projects)
   - [Software](#software)
     - [Operating Systems](#operating-systems)
+    - [Code Editors](#code-editors)
     - [Search Engines](#search-engines)
     - [Tools](#tools)
   - [Hardware](#hardware)
@@ -67,6 +68,9 @@
 
 #### Operating Systems
   - [Collapse OS](http://collapseos.org/) – Forth-based operating system designed for post-collapse scenarios.
+
+#### Code Editors
+  - [Vim](https://www.vim.org/) – Highly efficient, customizable, and lightweight text editor.
 
 #### Search Engines
   - [DuckDuckGo Lite](https://lite.duckduckgo.com/lite) – A minimal version of the DuckDuckGo search engine.
