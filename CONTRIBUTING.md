@@ -9,6 +9,5 @@ Please ensure your pull request adheres to the following:
 - New categories or improvements to the existing categorization are welcome.
 - Please update the table of contents as needed.
 - Check your spelling and grammar.
-- The pull request and commit should have a useful title.
 
 Thank you!
