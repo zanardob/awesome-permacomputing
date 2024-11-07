@@ -16,6 +16,8 @@
     - [Operating Systems](#operating-systems)
     - [Search Engines](#search-engines)
     - [Tools](#tools)
+  - [Hardware](#hardware)
+    - [Devices](#devices)
 - [Communities](#communities)
   - [Collectives](#collectives)
   - [Forums](#forums)
@@ -56,6 +58,12 @@
 
 #### Tools
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
+
+
+### Hardware
+
+#### Devices
+  - [Framework](https://frame.work/) – Customizable, repairable hardware.
 
 ## Communities
 
