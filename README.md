@@ -67,7 +67,7 @@
   - [Framework](https://frame.work/) – Customizable, repairable laptops.
 
 #### Repairing
-  - **[iFixit](https://www.ifixit.com/Guide)** – Step-by-step guides for repairing various devices.
+  - [iFixit](https://www.ifixit.com/Guide) – Step-by-step guides for repairing various devices.
 
 ## Communities
 
