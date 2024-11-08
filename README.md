@@ -82,6 +82,7 @@
   - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
   - [Hugo](https://gohugo.io/) – Open-source static website generator.
+  - [twtxt](https://twtxt.readthedocs.io/en/stable/) – A decentralised, minimalist microblogging platform built on a text-based protocol.
 
 #### Internet Protocols
   - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
