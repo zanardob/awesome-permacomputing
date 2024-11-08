@@ -91,7 +91,8 @@
 
 #### Internet Protocols
   - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
-
+  - [Tor](https://www.torproject.org/) – A privacy-focused, decentralized network protocol.
+    
 #### Browsers
   - [Dillo](https://dillo.org/) – A multi-platform graphical web browser, focused on speed and minimal resource usage.
   - [w3m](https://w3m.sourceforge.net/) – Text-based web browser for low-resource environments.
