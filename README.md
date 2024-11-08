@@ -97,6 +97,7 @@
 
 #### Search Engines
   - [DuckDuckGo Lite](https://lite.duckduckgo.com/lite) – A minimal version of the DuckDuckGo search engine.
+  - [Mojeek](https://www.mojeek.com/) – Independent, privacy-focused search engine.
 
 #### Social Networks
   - [Scuttlebutt](https://scuttlebutt.nz/) – A decentralised, low-bandwidth social network that works offline and is powered by a peer-to-peer gossip protocol.
