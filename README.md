@@ -18,9 +18,10 @@
   - [Software](#software)
     - [Operating Systems](#operating-systems)
     - [Code Editors](#code-editors)
+    - [Tools](#tools)
+    - [Internet Protocols](#internet-protocols)
     - [Browsers](#browsers)
     - [Search Engines](#search-engines)
-    - [Tools](#tools)
     - [Social Networks](#social-networks)
   - [Hardware](#hardware)
     - [Devices](#devices)
@@ -74,15 +75,18 @@
 #### Code Editors
   - [Vim](https://www.vim.org/) – Highly efficient, customizable, and lightweight text editor.
 
+#### Tools
+  - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
+  - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
+
+#### Internet Protocols
+  - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
+
 #### Browsers
   - [Dillo](https://dillo.org/) – A multi-platform graphical web browser, focused on speed and minimal resource usage.
 
 #### Search Engines
   - [DuckDuckGo Lite](https://lite.duckduckgo.com/lite) – A minimal version of the DuckDuckGo search engine.
-
-#### Tools
-  - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
-  - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
 
 #### Social Networks
   - [Scuttlebutt](https://scuttlebutt.nz/) – A decentralised, low-bandwidth social network that works offline and is powered by a peer-to-peer gossip protocol.
