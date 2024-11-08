@@ -116,6 +116,7 @@
   - [Demoscene](https://www.demoscene.info/) – Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
   - [Freifunk](https://freifunk.net/en/) – Decentralized, non-profit wireless community network in Germany.
   - [Right to Repair](https://repair.eu/) – Advocates for products to be designed for repairability and for universal access to the necessary spare parts, tools, and repair manuals.
+  - [Green Software Foundation](https://greensoftware.foundation/) – An ecosystem of people, standards, tooling and best practices for building green software.
 
 ### Forums
  - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
