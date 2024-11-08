@@ -12,8 +12,8 @@
   - [Books](#books)
     - [Technical](#technical)
   - [Audiovisual](#audiovisual)
-    - [Documentaries](#documentaries)
     - [Talks](#talks)
+    - [Documentaries](#documentaries)
 - [Projects](#projects)
   - [Software](#software)
     - [Operating Systems](#operating-systems)
@@ -55,15 +55,15 @@
   - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html). Eric S. Raymond. (2003).
 
 ### Audiovisual
-  #### Documentaries
-  - [Death by Design](https://www.imdb.com/title/tt5693890/) (2016).
-
   #### Talks
   - [Electronics Ecologies #1 - Repair](https://www.youtube.com/playlist?list=PLE_y90GftjpbQr8TyY-md0znvPrsrfHd8) (2023).
   - [Electronics Ecologies #2 - Waste](https://www.youtube.com/playlist?list=PLE_y90GftjpZbr0HN3dZZ9eJ36LtyHzXQ) (2023).
   - [Electronics Ecologies #3 - Energy](https://www.youtube.com/playlist?list=PLE_y90GftjpY1jBRaT0kdJxZV1SkF2-Zm) (2023).
   - [Electronics Ecologies #4 - Manufacturing](https://www.youtube.com/playlist?list=PLE_y90GftjpaX_vV7Q5QHOSmhJa0DEmB0) (2023).
   - [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM&t=591s) (2023).
+
+  #### Documentaries
+  - [Death by Design](https://www.imdb.com/title/tt5693890/) (2016).
 
 ## Projects
 
@@ -78,6 +78,7 @@
 #### Tools
   - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
+  - [Hugo](https://gohugo.io/) – Open-source static website generator.
 
 #### Internet Protocols
   - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
