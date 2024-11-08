@@ -72,6 +72,7 @@
 
 #### Operating Systems
   - [Collapse OS](http://collapseos.org/) – Forth-based operating system designed for post-collapse scenarios.
+  - [Tiny Core Linux](http://tinycorelinux.net/) - Small, highly modular system with community build extensions. 
 
 #### Code Editors
   - [Vim](https://www.vim.org/) – Highly efficient, customizable, and lightweight text editor.
