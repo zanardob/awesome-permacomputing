@@ -76,13 +76,14 @@
   - [Alpine Linux](https://www.alpinelinux.org/) - Secure, lightweight Linux distribution.
 
 #### Code Editors
-  - [Vim](https://www.vim.org/) – Highly efficient, customizable, and lightweight text editor.
+  - [Vim](https://www.vim.org/) – Highly efficient, customisable, and lightweight text editor.
 
 #### Tools
   - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
   - [Hugo](https://gohugo.io/) – Open-source static website generator.
   - [twtxt](https://twtxt.readthedocs.io/en/stable/) – A decentralised, minimalist microblogging platform built on a text-based protocol.
+  - [sqlite](https://www.sqlite.org/) - Small, reliable SQL database engine.
 
 #### Internet Protocols
   - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
@@ -100,7 +101,7 @@
 ### Hardware
 
 #### Devices
-  - [Framework](https://frame.work/) – Customizable, repairable laptops.
+  - [Framework](https://frame.work/) – Customisable, repairable laptops.
 
 #### Repairing
   - [iFixit](https://www.ifixit.com/Guide) – Step-by-step guides for repairing various devices.
