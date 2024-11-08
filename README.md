@@ -109,6 +109,7 @@
   - [Computing within Limits](https://limits.pubpub.org/) – An annual workshop concerning the role of computing in human societies affected by real-world limits.
   - [Small File Media Festival](https://smallfile.ca/) - A film festival in Canada, focused on short films with file sizes less than five megabytes.
   - [Demoscene](https://www.demoscene.info/) - Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
+  - [Freifunk](https://freifunk.net/en/) - Decentralized, non-profit wireless community network in Germany.
 
 ### Forums
  - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
