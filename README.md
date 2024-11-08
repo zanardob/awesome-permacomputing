@@ -72,8 +72,8 @@
 
 #### Operating Systems
   - [Collapse OS](http://collapseos.org/) – Forth-based operating system designed for post-collapse scenarios.
-  - [Tiny Core Linux](http://tinycorelinux.net/) - Small, highly modular system with community build extensions.
-  - [Alpine Linux](https://www.alpinelinux.org/) - Secure, lightweight Linux distribution.
+  - [Tiny Core Linux](http://tinycorelinux.net/) – Small, highly modular system with community build extensions.
+  - [Alpine Linux](https://www.alpinelinux.org/) – Secure, lightweight Linux distribution.
 
 #### Code Editors
   - [Vim](https://www.vim.org/) – Highly efficient, customisable, and lightweight text editor.
@@ -83,7 +83,7 @@
   - [TLP](https://linrunner.de/tlp/) – Linux power management tool to extend battery life.
   - [Hugo](https://gohugo.io/) – Open-source static website generator.
   - [twtxt](https://twtxt.readthedocs.io/en/stable/) – A decentralised, minimalist microblogging platform built on a text-based protocol.
-  - [sqlite](https://www.sqlite.org/) - Small, reliable SQL database engine.
+  - [sqlite](https://www.sqlite.org/) – Small, reliable SQL database engine.
 
 #### Internet Protocols
   - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
@@ -111,9 +111,9 @@
 ### Collectives
 
   - [Computing within Limits](https://limits.pubpub.org/) – An annual workshop concerning the role of computing in human societies affected by real-world limits.
-  - [Small File Media Festival](https://smallfile.ca/) - A film festival in Canada, focused on short films with file sizes less than five megabytes.
-  - [Demoscene](https://www.demoscene.info/) - Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
-  - [Freifunk](https://freifunk.net/en/) - Decentralized, non-profit wireless community network in Germany.
+  - [Small File Media Festival](https://smallfile.ca/) – A film festival in Canada, focused on short films with file sizes less than five megabytes.
+  - [Demoscene](https://www.demoscene.info/) – Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
+  - [Freifunk](https://freifunk.net/en/) – Decentralized, non-profit wireless community network in Germany.
 
 ### Forums
  - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
