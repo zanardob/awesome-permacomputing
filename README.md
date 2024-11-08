@@ -11,6 +11,8 @@
   - [Texts](#texts)
   - [Books](#books)
     - [Technical](#technical)
+  - [Visual](#visual)
+    - [Comics](#comics)
   - [Audiovisual](#audiovisual)
     - [Talks](#talks)
     - [Documentaries](#documentaries)
@@ -55,6 +57,10 @@
 ### Books
   #### Technical
   - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html). Eric S. Raymond. (2003).
+
+### Visual
+  #### Comics
+  - [Dependency](https://xkcd.com/2347/). xkcd. (2020).
 
 ### Audiovisual
   #### Talks
@@ -103,7 +109,7 @@
 
 #### Social Networks
   - [Scuttlebutt](https://scuttlebutt.nz/) – A decentralised, low-bandwidth social network that works offline and is powered by a peer-to-peer gossip protocol.
-  - [Lemmy](https://join-lemmy.org/) – A federated, open-source, and privacy-respecting social platform for creating and joining communities. 
+  - [Lemmy](https://join-lemmy.org/) – A federated, open-source social platform for creating and joining communities. 
 
 ### Hardware
 
