@@ -84,6 +84,7 @@
 
 #### Browsers
   - [Dillo](https://dillo.org/) – A multi-platform graphical web browser, focused on speed and minimal resource usage.
+  - [w3m](https://w3m.sourceforge.net/) – Text-based web browser for low-resource environments.
 
 #### Search Engines
   - [DuckDuckGo Lite](https://lite.duckduckgo.com/lite) – A minimal version of the DuckDuckGo search engine.
