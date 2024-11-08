@@ -77,6 +77,7 @@
 
 #### Code Editors
   - [Vim](https://www.vim.org/) – Highly efficient, customisable, and lightweight text editor.
+  - [Micro](https://micro-editor.github.io/) – Lightweight, intuitive terminal-based text editor.
 
 #### Tools
   - [Suckless](https://suckless.org/) – A collection of ultra-minimalist tools focused on simplicity, clarity and frugality.
