@@ -87,6 +87,7 @@
   - [Hugo](https://gohugo.io/) – Open-source static website generator.
   - [twtxt](https://twtxt.readthedocs.io/en/stable/) – A decentralised, minimalist microblogging platform built on a text-based protocol.
   - [sqlite](https://www.sqlite.org/) – Small, reliable SQL database engine.
+  - [Argos Translate](https://www.argosopentech.com/) – An open-source translation tool that runs offline.
 
 #### Internet Protocols
   - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
