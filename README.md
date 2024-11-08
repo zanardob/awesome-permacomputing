@@ -107,6 +107,7 @@
 ### Hardware
 
 #### Devices
+  - [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) – Single-board computers based on open-source hardware.
   - [Framework](https://frame.work/) – Customisable, repairable laptops.
 
 #### Repairing
