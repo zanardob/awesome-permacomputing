@@ -19,7 +19,7 @@
     - [Operating Systems](#operating-systems)
     - [Code Editors](#code-editors)
     - [Tools](#tools)
-    - [Internet Protocols](#internet-protocols)
+    - [Network Protocols](#network-protocols)
     - [Browsers](#browsers)
     - [Search Engines](#search-engines)
     - [Social Networks](#social-networks)
@@ -89,7 +89,7 @@
   - [sqlite](https://www.sqlite.org/) – Small, reliable SQL database engine.
   - [Argos Translate](https://www.argosopentech.com/) – An open-source translation tool that runs offline.
 
-#### Internet Protocols
+#### Network Protocols
   - [Gemini](https://geminiprotocol.net/) – Minimalist, text-based internet protocol.
   - [Tor](https://www.torproject.org/) – A privacy-focused, decentralised network protocol.
     
