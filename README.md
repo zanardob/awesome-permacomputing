@@ -2,7 +2,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-> A knowledge collection of resources, projects, communities, and general information on **permacomputing** — sustainable and regenerative computing practices inspired by permaculture principles.
+> A knowledge curation of resources, projects, communities, and general information on **permacomputing** — sustainable and regenerative computing practices inspired by permaculture principles.
 
 ## Contents
 
@@ -46,32 +46,32 @@
   - [Modding Fridays](https://moddingfridays.bleu255.com/) – A wiki about maintenance, repurposing, and reappropriation of supposedly obsolete electronics.
 
 ### Texts
-  - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html). Ville-Matias Heikkilä. (2020).
-  - [A holistic approach to computing and sustainability inspired from permaculture](https://wiki.xxiivv.com/site/permacomputing.html). Devine Lu Linvega. (2021).
-  - [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture](https://limits.pubpub.org/pub/6loh1eqi/release/1). Aymeric Mansoux, Brendan Howell, Dušan Barok, and Ville-Matias Heikkilä. (2023).
-  - [Permacomputing and the Dance of Repair Amid the Vestiges of Digital Obsolescence](https://networkcultures.org/performanceofcode/2023/09/05/the-dance-of-repair-amid-the-vestiges-of-digital-obsolescence/). Nancy Mauro-Flude. (2023).
-  - [The Oceanic provenance of Permacomputing and Computational poetics](https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/). Nancy Mauro-Flude. (2024).
-  - [The Beauty of Finished Software](https://josem.co/the-beauty-of-finished-software/). Jose M. Gilgado. (2023).
-  - [What might degrowth computing look like?](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/). Neil Selwyn. (2022).
+  - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html)
+  - [A holistic approach to computing and sustainability inspired from permaculture](https://wiki.xxiivv.com/site/permacomputing.html)
+  - [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture](https://limits.pubpub.org/pub/6loh1eqi/release/1)
+  - [Permacomputing and the Dance of Repair Amid the Vestiges of Digital Obsolescence](https://networkcultures.org/performanceofcode/2023/09/05/the-dance-of-repair-amid-the-vestiges-of-digital-obsolescence/)
+  - [The Oceanic provenance of Permacomputing and Computational poetics](https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/)
+  - [The Beauty of Finished Software](https://josem.co/the-beauty-of-finished-software/)
+  - [What might degrowth computing look like?](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/)
 
 ### Books
   #### Technical
-  - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html). Eric S. Raymond. (2003).
+  - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html)
 
 ### Visual
   #### Comics
-  - [Dependency](https://xkcd.com/2347/). xkcd. (2020).
+  - [Dependency](https://xkcd.com/2347/)
 
 ### Audiovisual
   #### Talks
-  - [Electronics Ecologies #1 - Repair](https://www.youtube.com/playlist?list=PLE_y90GftjpbQr8TyY-md0znvPrsrfHd8) (2023).
-  - [Electronics Ecologies #2 - Waste](https://www.youtube.com/playlist?list=PLE_y90GftjpZbr0HN3dZZ9eJ36LtyHzXQ) (2023).
-  - [Electronics Ecologies #3 - Energy](https://www.youtube.com/playlist?list=PLE_y90GftjpY1jBRaT0kdJxZV1SkF2-Zm) (2023).
-  - [Electronics Ecologies #4 - Manufacturing](https://www.youtube.com/playlist?list=PLE_y90GftjpaX_vV7Q5QHOSmhJa0DEmB0) (2023).
-  - [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM&t=591s) (2023).
+  - [Electronics Ecologies #1 - Repair](https://www.youtube.com/playlist?list=PLE_y90GftjpbQr8TyY-md0znvPrsrfHd8)
+  - [Electronics Ecologies #2 - Waste](https://www.youtube.com/playlist?list=PLE_y90GftjpZbr0HN3dZZ9eJ36LtyHzXQ)
+  - [Electronics Ecologies #3 - Energy](https://www.youtube.com/playlist?list=PLE_y90GftjpY1jBRaT0kdJxZV1SkF2-Zm)
+  - [Electronics Ecologies #4 - Manufacturing](https://www.youtube.com/playlist?list=PLE_y90GftjpaX_vV7Q5QHOSmhJa0DEmB0)
+  - [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM&t=591s) 
 
   #### Documentaries
-  - [Death by Design](https://www.imdb.com/title/tt5693890/) (2016).
+  - [Death by Design](https://www.imdb.com/title/tt5693890/)
 
 ## Projects
 
