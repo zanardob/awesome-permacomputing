@@ -70,6 +70,7 @@
 
   #### Talks
   - [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM&t=591s) - Devine Lu Linvega, 2023.
+  - [From appropriate technology to permacomputing: a glossary of counternarratives and practices](https://piped.video/watch?v=OOppK1or6RY&t=3036s) - Marloes de Valk, 2022.
 
 ## Projects
 
@@ -92,7 +93,7 @@
   - [twtxt](https://twtxt.readthedocs.io/en/stable/) - A decentralised, minimalist microblogging platform built on a text-based protocol.
   - [sqlite](https://www.sqlite.org/) - Small, reliable SQL database engine.
   - [Argos Translate](https://www.argosopentech.com/) - An open-source translation tool that runs offline.
-  - [NoScript](https://noscript.net/) - A browser extension that allows JavaScript to be executed only on trusted websites of your choice.
+  - [NoScript](https://noscript.net/) - An open-source browser extension that allows JavaScript to be executed only on trusted websites of your choice.
     
 #### Network Protocols
   - [Gemini](https://geminiprotocol.net/) - Minimalist, text-based internet protocol.
