@@ -92,7 +92,8 @@
   - [twtxt](https://twtxt.readthedocs.io/en/stable/) - A decentralised, minimalist microblogging platform built on a text-based protocol.
   - [sqlite](https://www.sqlite.org/) - Small, reliable SQL database engine.
   - [Argos Translate](https://www.argosopentech.com/) - An open-source translation tool that runs offline.
-
+  - [NoScript](https://noscript.net/) - A browser extension that allows JavaScript to be executed only on trusted websites of your choice.
+    
 #### Network Protocols
   - [Gemini](https://geminiprotocol.net/) - Minimalist, text-based internet protocol.
   - [Tor](https://www.torproject.org/) - A privacy-focused, decentralised network protocol.
