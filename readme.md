@@ -1,4 +1,4 @@
-# Awesome Permacomputing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Permacomputing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A curation of resources, projects, and communities related to permacomputing.
 <a href="https://permacomputing.net/"><img src="https://github.com/user-attachments/assets/7e06c9a7-2164-4791-b82d-1144db65b13a" alt="Permacomputing Logo" align="right" height="85"></a>
