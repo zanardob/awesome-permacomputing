@@ -56,6 +56,7 @@
 
 - Comics
   - [Dependency](https://xkcd.com/2347/) - Xkcd, 2020.
+  - [Energy Slaves](https://www.stuartmcmillen.com/comic/energy-slaves/) - Stuart McMillen, 2017.
 
 ### Audiovisual
 
