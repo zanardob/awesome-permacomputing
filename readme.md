@@ -46,6 +46,7 @@
   - [The Luddite](https://theluddite.org/) - A skeptical look at technology and its impact on society.
   - [Frugal Computing](https://frugalcomputing.neocities.org/) - Ideas and notes on frugal computing.
   - [Modding Fridays](https://moddingfridays.bleu255.com/) - A wiki about maintenance, repurposing, and reappropriation of supposedly obsolete electronics.
+  - [No tech Magazine](https://www.notechmagazine.com/) - Low-tech Magazine's sister blog, it emphasizes simple technologies over high-tech, resource-intensive ones.
 
 ### Texts
   - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html) - Ville-Matias Heikkilä, 2020.
