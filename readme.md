@@ -47,6 +47,7 @@
   - [Frugal Computing](https://frugalcomputing.neocities.org/) - Ideas and notes on frugal computing.
   - [Modding Fridays](https://moddingfridays.bleu255.com/) - A wiki about maintenance, repurposing, and reappropriation of supposedly obsolete electronics.
   - [No tech Magazine](https://www.notechmagazine.com/) - Low-tech Magazine's sister blog, it emphasizes simple technologies over high-tech, resource-intensive ones.
+  - [Simplifier](https://simplifier.neocities.org/) - Practical, low-tech guides and resources to simplify daily life.
 
 ### Texts
   - [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html) - Ville-Matias Heikkilä, 2020.
@@ -70,7 +71,7 @@
   - [Death by Design](https://www.imdb.com/title/tt5693890/) - Sue Williams, 2016.
 
   #### Talks
-  - [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM&t=591s) - Devine Lu Linvega, 2023.
+  - [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM) - Devine Lu Linvega, 2023.
   - [From appropriate technology to permacomputing: a glossary of counternarratives and practices](https://piped.video/watch?v=OOppK1or6RY&t=3036s) - Marloes de Valk, 2022.
 
 ## Projects
