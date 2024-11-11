@@ -36,6 +36,7 @@
 - [Modding Fridays](https://moddingfridays.bleu255.com/) - A wiki about maintenance, repurposing, and reappropriation of supposedly obsolete electronics.
 - [No tech Magazine](https://www.notechmagazine.com/) - Low-tech Magazine's sister blog, it emphasizes simple technologies over high-tech, resource-intensive ones.
 - [Simplifier](https://simplifier.neocities.org/) - Practical, low-tech guides and resources to simplify daily life.
+- [Death to Bullshit](https://blog.deathtobullshit.com/) - Critiques the clutter and misleading tactics common in digital experiences.
 
 ### Texts
 
