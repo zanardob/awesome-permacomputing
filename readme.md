@@ -30,6 +30,7 @@
   - [Hardware](#hardware)
     - [Devices](#devices)
     - [Repairing](#repairing)
+  - [Experimental](#experimental)
 - [Communities](#communities)
   - [Collectives](#collectives)
   - [Forums](#forums)
@@ -122,6 +123,9 @@
 
 #### Repairing
   - [iFixit](https://www.ifixit.com/Guide) - Step-by-step guides for repairing various devices.
+
+### Experimental
+  - [Solar Protocol](https://solarprotocol.net/) - Decentralized, solar-powered internet infrastructure.
 
 ## Communities
 
