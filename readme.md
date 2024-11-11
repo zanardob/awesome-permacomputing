@@ -46,6 +46,7 @@
 - [The Oceanic provenance of Permacomputing and Computational poetics](https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/) - Nancy Mauro-Flude, 2024.
 - [The Beauty of Finished Software](https://josem.co/the-beauty-of-finished-software/) - Jose M. Gilgado, 2023.
 - [What might degrowth computing look like?](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/) - Neil Selwyn, 2022.
+- [Low Fat Computing](https://www.ultratechnology.com/lowfat.htm) - Jeff Fox, 1998.
 
 ### Books
 
