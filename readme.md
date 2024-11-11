@@ -123,6 +123,7 @@
   - [Freifunk](https://freifunk.net/en/) - Decentralized, non-profit wireless community network in Germany.
   - [Right to Repair](https://repair.eu/) - Advocates for products to be designed for repairability and for universal access to the necessary spare parts, tools, and repair manuals.
   - [Green Software Foundation](https://greensoftware.foundation/) - An ecosystem of people, standards, tooling and best practices for building green software.
+  - [ClimateAction.tech](https://climateaction.tech/) - A slack-based tech community to meet, discuss, and learn about climate action.
 - Art
   - [Small File Media Festival](https://smallfile.ca/) - A film festival in Canada, focused on short films with file sizes less than five megabytes.
   - [Demoscene](https://www.demoscene.info/) - Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
