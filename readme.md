@@ -33,6 +33,8 @@
   - [Experimental](#experimental)
 - [Communities](#communities)
   - [Collectives](#collectives)
+    - [Computing](#computing)
+    - [Art](#art)
   - [Forums](#forums)
     
 
@@ -131,12 +133,15 @@
 
 ### Collectives
 
+#### Computing
   - [Computing within Limits](https://limits.pubpub.org/) - An annual workshop concerning the role of computing in human societies affected by real-world limits.
-  - [Small File Media Festival](https://smallfile.ca/) - A film festival in Canada, focused on short films with file sizes less than five megabytes.
-  - [Demoscene](https://www.demoscene.info/) - Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
   - [Freifunk](https://freifunk.net/en/) - Decentralized, non-profit wireless community network in Germany.
   - [Right to Repair](https://repair.eu/) - Advocates for products to be designed for repairability and for universal access to the necessary spare parts, tools, and repair manuals.
   - [Green Software Foundation](https://greensoftware.foundation/) - An ecosystem of people, standards, tooling and best practices for building green software.
+
+#### Art
+  - [Small File Media Festival](https://smallfile.ca/) - A film festival in Canada, focused on short films with file sizes less than five megabytes.
+  - [Demoscene](https://www.demoscene.info/) - Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
   - [Pixel Joint](https://www.pixeljoint.com/) - Community for artists making low-resolution, low-power pixel art.
   - [LOWREZJAM](https://itch.io/jam/lowrezjam-2024) - A game jam where participants create games with a maximum resolution of 64x64 pixels.
 
