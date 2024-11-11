@@ -132,6 +132,7 @@
   - [Right to Repair](https://repair.eu/) - Advocates for products to be designed for repairability and for universal access to the necessary spare parts, tools, and repair manuals.
   - [Green Software Foundation](https://greensoftware.foundation/) - An ecosystem of people, standards, tooling and best practices for building green software.
   - [Pixel Joint](https://www.pixeljoint.com/) - Community for artists making low-resolution, low-power pixel art.
+  - [LOWREZJAM](https://itch.io/jam/lowrezjam-2024) - A game jam where participants create games with a maximum resolution of 64x64 pixels.
 
 ### Forums
  - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
