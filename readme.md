@@ -120,7 +120,7 @@
 - [Scuttlebutt](https://scuttlebutt.nz/) - A decentralised, low-bandwidth social network that works offline and is powered by a peer-to-peer gossip protocol.
 - [Lemmy](https://join-lemmy.org/) - A federated, open-source social platform for creating and joining communities.
 - [Piped](https://piped.video/) - An open-source alternative frontend for YouTube which is efficient by design.
-- [Mastodon](https://mastodon.social/) - A decentralized, open-source microblogging community.
+- [Mastodon](https://mastodon.social/) - A decentralised, open-source microblogging community.
 
 ### Hardware
 
@@ -135,7 +135,7 @@
 
 ### Experimental
 
-- [Solar Protocol](https://solarprotocol.net/) - Decentralized, solar-powered internet infrastructure.
+- [Solar Protocol](https://solarprotocol.net/) - Decentralised, solar-powered internet infrastructure.
 
 ## Communities
 
@@ -144,7 +144,7 @@
 ##### Computing
 
 - [Computing within Limits](https://limits.pubpub.org/) - An annual workshop concerning the role of computing in human societies affected by real-world limits.
-- [Freifunk](https://freifunk.net/en/) - Decentralized, non-profit wireless community network in Germany.
+- [Freifunk](https://freifunk.net/en/) - Decentralised, non-profit wireless community network in Germany.
 - [Right to Repair](https://repair.eu/) - Advocates for products to be designed for repairability and for universal access to the necessary spare parts, tools, and repair manuals.
 - [Green Software Foundation](https://greensoftware.foundation/) - An ecosystem of people, standards, tooling and best practices for building green software.
 - [ClimateAction.tech](https://climateaction.tech/) - A slack-based tech community to meet, discuss, and learn about climate action.
