@@ -120,6 +120,7 @@
 - [Scuttlebutt](https://scuttlebutt.nz/) - A decentralised, low-bandwidth social network that works offline and is powered by a peer-to-peer gossip protocol.
 - [Lemmy](https://join-lemmy.org/) - A federated, open-source social platform for creating and joining communities.
 - [Piped](https://piped.video/) - An open-source alternative frontend for YouTube which is efficient by design.
+- [Mastodon](https://mastodon.social/) - A decentralized, open-source microblogging community.
 
 ### Hardware
 
