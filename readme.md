@@ -1,10 +1,7 @@
 # Awesome Permacomputing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
 <a href="https://permacomputing.net/"><img src="https://github.com/user-attachments/assets/7e06c9a7-2164-4791-b82d-1144db65b13a" alt="Permacomputing Logo" align="right"></a>
-
-> A curation of resources, projects, and communities related to permacomputing.
-
-[Permacomputing](https://permacomputing.net/permacomputing/) is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture. 
+A curation of resources, projects, and communities related to permacomputing.
+> [Permacomputing](https://permacomputing.net/permacomputing/) is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture. 
 
 ## Contents
 
