@@ -34,6 +34,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [No tech Magazine](https://www.notechmagazine.com/) - Low-tech Magazine's sister blog, it emphasizes simple technologies over high-tech, resource-intensive ones.
 - [Simplifier](https://simplifier.neocities.org/) - Practical, low-tech guides and resources to simplify daily life.
 - [Death to Bullshit](https://blog.deathtobullshit.com/) - Critiques the clutter and misleading tactics common in digital experiences.
+- [Do the Math](https://dothemath.ucsd.edu/) - Explores the physical limits of growth in energy consumption and technological progress.
 
 ### Texts
 
