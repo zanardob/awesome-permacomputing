@@ -133,6 +133,7 @@ A curation of resources, projects, and communities related to permacomputing.
 ##### Repairing
 
 - [iFixit](https://www.ifixit.com/Guide) - Step-by-step guides for repairing various devices.
+- [Repair Café](https://www.repaircafe.org/en/) - Free meeting places for repairing things together.
 
 ### Experimental
 
