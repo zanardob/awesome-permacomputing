@@ -97,6 +97,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [sqlite](https://www.sqlite.org/) - Small, reliable SQL database engine.
 - [Argos Translate](https://www.argosopentech.com/) - An open-source translation tool that runs offline.
 - [NoScript](https://noscript.net/) - An open-source browser extension that allows JavaScript to be executed only on trusted websites of your choice.
+- [CO2.js](https://developers.thegreenwebfoundation.org/co2js/overview/) - A JavaScript library for estimating the carbon emissions associated with software.
 
 ##### Network Protocols
 
