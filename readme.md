@@ -7,7 +7,7 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [Resources](#resources)
   - [Wikis and Blogs](#wikis-and-blogs)
-  - [Texts](#texts)
+  - [Articles](#articles)
   - [Books](#books)
   - [Visual](#visual)
   - [Audiovisual](#audiovisual)
@@ -36,7 +36,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Death to Bullshit](https://blog.deathtobullshit.com/) - Critiques the clutter and misleading tactics common in digital experiences.
 - [Do the Math](https://dothemath.ucsd.edu/) - Explores the physical limits of growth in energy consumption and technological progress.
 
-### Texts
+### Articles
 
 - [*Permacomputing*](http://viznut.fi/files/texts-en/permacomputing.html) - Ville-Matias Heikkilä, 2020.
 - [*A holistic approach to computing and sustainability inspired from permaculture*](https://wiki.xxiivv.com/site/permacomputing.html) - Devine Lu Linvega, 2021.
