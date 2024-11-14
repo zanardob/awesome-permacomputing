@@ -52,7 +52,7 @@ A curation of resources, projects, and communities related to permacomputing.
 ##### Non-fiction
 
 - [*The Art of Unix Programming*](http://www.catb.org/esr/writings/taoup/html/index.html) - Eric S. Raymond, 2003.
-- [*The Limits to Growth*](https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html) - Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, and William W. Behrens, 1972.
+- [*The Limits to Growth*](https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html) - Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, and William W. Behrens III, 1972.
 
 ### Visual
 
