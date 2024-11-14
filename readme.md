@@ -71,6 +71,7 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [*An Approach to Computing and Sustainability Inspired from Permaculture*](https://www.youtube.com/watch?v=T3u7bGgVspM) - Devine Lu Linvega, 2023.
 - [*From appropriate technology to permacomputing: a glossary of counternarratives and practices*](https://piped.video/watch?v=OOppK1or6RY&t=3036s) - Marloes de Valk, 2022.
+- [*Preventing the Collapse of Civilization*](https://archive.org/details/blow_20191208) - Jonathan Blow, 2019.
 
 ## Projects
 
