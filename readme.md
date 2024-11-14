@@ -46,6 +46,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [*The Beauty of Finished Software*](https://josem.co/the-beauty-of-finished-software/) - Jose M. Gilgado, 2023.
 - [*What might degrowth computing look like?*](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/) - Neil Selwyn, 2022.
 - [*Low Fat Computing*](https://www.ultratechnology.com/lowfat.htm) - Jeff Fox, 1998.
+- [*What can a technologist do about climate change?*](https://worrydream.com/ClimateChange/#production) - Bret Victor, 2015.
 
 ### Books
 
