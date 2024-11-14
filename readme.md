@@ -147,7 +147,8 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Green Software Foundation](https://greensoftware.foundation/) - An ecosystem of people, standards, tooling and best practices for building green software.
 - [ClimateAction.tech](https://climateaction.tech/) - A slack-based tech community to meet, discuss, and learn about climate action.
 - [Electronics < > Ecologies](https://www.admscentre.org.au/electronics-ecologies/) - A workshop series providing strategic research outcomes and specialised training in sustainable electronics design and hardware studies.
-- [LURK](https://lurk.org/) - Hosts discussions on decentralized, sustainable computing and new digital environments.
+- [LURK](https://lurk.org/) - Hosts discussions on decentralised, sustainable computing and new digital environments.
+- [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/) - Advocates for sustainable design principles in the web industry.
   
 ##### Art
 
