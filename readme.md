@@ -6,7 +6,7 @@ A curation of resources, projects, and communities related to permacomputing.
 ## Contents
 
 - [Resources](#resources)
-  - [Wikis and Blogs](#wikis-and-blogs)
+  - [Sites](#sites)
   - [Articles](#articles)
   - [Books](#books)
   - [Visual](#visual)
@@ -21,7 +21,7 @@ A curation of resources, projects, and communities related to permacomputing.
     
 ## Resources
 
-### Wikis and Blogs
+### Sites
 
 - [Permacomputing](https://permacomputing.net) - A wiki for permacomputing.
 - [Low-tech Magazine](https://www.lowtechmagazine.com/) - Articles about solving human problems with low-tech solutions.
