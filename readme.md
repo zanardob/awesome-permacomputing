@@ -130,6 +130,7 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) - Single-board computers based on open-source hardware.
 - [Framework](https://frame.work/) - Customisable, repairable laptops.
+- [Fairphone](https://www.fairphone.com/) - Repairable smartphones made with responsibly sourced materials.
 
 ##### Repairing
 
