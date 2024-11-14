@@ -103,6 +103,7 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [Gemini](https://geminiprotocol.net/) - Minimalist, text-based internet protocol.
 - [Tor](https://www.torproject.org/) - A privacy-focused, decentralised network protocol.
+- [Dat Ecosystem](https://dat-ecosystem.org/) - A peer-to-peer, decentralised web protocol.
 
 ##### Browsers
 
