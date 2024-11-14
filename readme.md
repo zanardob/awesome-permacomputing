@@ -150,6 +150,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Electronics < > Ecologies](https://www.admscentre.org.au/electronics-ecologies/) - A workshop series providing strategic research outcomes and specialised training in sustainable electronics design and hardware studies.
 - [LURK](https://lurk.org/) - Hosts discussions on decentralised, sustainable computing and new digital environments.
 - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/) - Advocates for sustainable design principles in the web industry.
+- [The Green Web Foundation](https://www.thegreenwebfoundation.org/) - An independent non-profit that tracks how much of the internet is powered by green energy.
   
 ##### Art
 
