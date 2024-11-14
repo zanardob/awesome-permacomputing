@@ -157,6 +157,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Demoscene](https://www.demoscene.info/) - Old-school programming artistry using limited system resources to produce stunning visuals and sounds.
 - [Pixel Joint](https://www.pixeljoint.com/) - Community for artists making low-resolution, low-power pixel art.
 - [LOWREZJAM](https://itch.io/jam/lowrezjam-2024) - A game jam where participants create games with a maximum resolution of 64x64 pixels.
+- [Data Garden](https://www.datagarden.org/) - A series of bio-reactive installations that transform natural phenomena into music-generating data.
 
 ### Forums
 
