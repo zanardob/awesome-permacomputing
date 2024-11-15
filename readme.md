@@ -39,43 +39,43 @@ A curation of resources, projects, and communities related to permacomputing.
 
 ### Articles
 
-- [*Permacomputing*](http://viznut.fi/files/texts-en/permacomputing.html) - Ville-Matias Heikkilä, 2020.
-- [*A holistic approach to computing and sustainability inspired from permaculture*](https://wiki.xxiivv.com/site/permacomputing.html) - Devine Lu Linvega, 2021.
-- [*Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture*](https://limits.pubpub.org/pub/6loh1eqi/release/1) - Aymeric Mansoux, Brendan Howell, Dušan Barok, and Ville-Matias Heikkilä, 2023.
-- [*Permacomputing and the Dance of Repair Amid the Vestiges of Digital Obsolescence*](https://networkcultures.org/performanceofcode/2023/09/05/the-dance-of-repair-amid-the-vestiges-of-digital-obsolescence/) - Nancy Mauro-Flude, 2023.
-- [*The Oceanic provenance of Permacomputing and Computational poetics*](https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/) - Nancy Mauro-Flude, 2024.
-- [*The Beauty of Finished Software*](https://josem.co/the-beauty-of-finished-software/) - Jose M. Gilgado, 2023.
-- [*What might degrowth computing look like?*](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/) - Neil Selwyn, 2022.
-- [*Low Fat Computing*](https://www.ultratechnology.com/lowfat.htm) - Jeff Fox, 1998.
-- [*What can a technologist do about climate change?*](https://worrydream.com/ClimateChange/#production) - Bret Victor, 2015.
+- [Permacomputing](http://viznut.fi/files/texts-en/permacomputing.html) - Ville-Matias Heikkilä, 2020.
+- [A holistic approach to computing and sustainability inspired from permaculture](https://wiki.xxiivv.com/site/permacomputing.html) - Devine Lu Linvega, 2021.
+- [Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture](https://limits.pubpub.org/pub/6loh1eqi/release/1) - Aymeric Mansoux, Brendan Howell, Dušan Barok, and Ville-Matias Heikkilä, 2023.
+- [Permacomputing and the Dance of Repair Amid the Vestiges of Digital Obsolescence](https://networkcultures.org/performanceofcode/2023/09/05/the-dance-of-repair-amid-the-vestiges-of-digital-obsolescence/) - Nancy Mauro-Flude, 2023.
+- [The Oceanic provenance of Permacomputing and Computational poetics](https://www.autoluminescence.institute/resources/library/intro-oceanic_provenance_permacomputing_codework/) - Nancy Mauro-Flude, 2024.
+- [The Beauty of Finished Software](https://josem.co/the-beauty-of-finished-software/) - Jose M. Gilgado, 2023.
+- [What might degrowth computing look like?](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/) - Neil Selwyn, 2022.
+- [Low Fat Computing](https://www.ultratechnology.com/lowfat.htm) - Jeff Fox, 1998.
+- [What can a technologist do about climate change?](https://worrydream.com/ClimateChange/#production) - Bret Victor, 2015.
 
 ### Books
 
 ##### Non-fiction
 
-- [*The Art of Unix Programming*](http://www.catb.org/esr/writings/taoup/html/index.html) - Eric S. Raymond, 2003.
-- [*The Limits to Growth*](https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html) - Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, and William W. Behrens III, 1972.
+- [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html) - Eric S. Raymond, 2003.
+- [The Limits to Growth](https://collections.dartmouth.edu/teitexts/meadows/diplomatic/meadows_ltg-diplomatic.html) - Donella H. Meadows, Dennis L. Meadows, Jørgen Randers, and William W. Behrens III, 1972.
 
 ### Visual
 
 ##### Comics
 
-- [*Dependency*](https://xkcd.com/2347/) - Xkcd, 2020.
-- [*Energy Slaves*](https://www.stuartmcmillen.com/comic/energy-slaves/) - Stuart McMillen, 2017.
+- [Dependency](https://xkcd.com/2347/) - Xkcd, 2020.
+- [Energy Slaves](https://www.stuartmcmillen.com/comic/energy-slaves/) - Stuart McMillen, 2017.
 
 ### Audiovisual
 
 ##### Documentaries
 
-- [*Death by Design*](https://www.imdb.com/title/tt5693890/) - Sue Williams, 2016.
-- [*The Social Dilemma*](https://www.imdb.com/title/tt11464826/) - Jeff Orlowski-Yang, 2020.
-- [*Surviving Progress*](https://www.imdb.com/title/tt1462014/) - Mathieu Roy and Harold Crooks, 2011.
+- [Death by Design](https://www.imdb.com/title/tt5693890/) - Sue Williams, 2016.
+- [The Social Dilemma](https://www.imdb.com/title/tt11464826/) - Jeff Orlowski-Yang, 2020.
+- [Surviving Progress](https://www.imdb.com/title/tt1462014/) - Mathieu Roy and Harold Crooks, 2011.
 
 ##### Talks
 
-- [*An Approach to Computing and Sustainability Inspired from Permaculture*](https://www.youtube.com/watch?v=T3u7bGgVspM) - Devine Lu Linvega, 2023.
-- [*From appropriate technology to permacomputing: a glossary of counternarratives and practices*](https://piped.video/watch?v=OOppK1or6RY&t=3036s) - Marloes de Valk, 2022.
-- [*Preventing the Collapse of Civilization*](https://archive.org/details/blow_20191208) - Jonathan Blow, 2019.
+- [An Approach to Computing and Sustainability Inspired from Permaculture](https://www.youtube.com/watch?v=T3u7bGgVspM) - Devine Lu Linvega, 2023.
+- [From appropriate technology to permacomputing: a glossary of counternarratives and practices](https://piped.video/watch?v=OOppK1or6RY&t=3036s) - Marloes de Valk, 2022.
+- [Preventing the Collapse of Civilization](https://archive.org/details/blow_20191208) - Jonathan Blow, 2019.
 
 ## Projects
 
