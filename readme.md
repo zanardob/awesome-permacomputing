@@ -116,6 +116,7 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [Dillo](https://dillo.org/) - A multi-platform graphical web browser, focused on speed and minimal resource usage.
 - [w3m](https://w3m.sourceforge.net/) - Text-based web browser for low-resource environments.
+- [Lagrange](https://gmi.skyjake.fi/lagrange/) - A minimal, open-source browser designed for browsing Geminispace.
 
 ##### Search Engines
 
