@@ -104,6 +104,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [NoScript](https://noscript.net/) - An open-source browser extension that allows JavaScript to be executed only on trusted websites of your choice.
 - [CO2.js](https://developers.thegreenwebfoundation.org/co2js/overview/) - A JavaScript library for estimating the carbon emissions associated with software.
 - [Tauri](https://tauri.app/) - A framework for building lightweight, native desktop applications with web technologies.
+- [XFE](http://roland65.free.fr/xfe/) - A simple and efficient file manager.
 
 ##### Network Protocols
 
