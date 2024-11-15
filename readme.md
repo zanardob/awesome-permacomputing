@@ -105,6 +105,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [CO2.js](https://developers.thegreenwebfoundation.org/co2js/overview/) - A JavaScript library for estimating the carbon emissions associated with software.
 - [Tauri](https://tauri.app/) - A framework for building lightweight, native desktop applications with web technologies.
 - [XFE](http://roland65.free.fr/xfe/) - A simple and efficient file manager.
+- [Festival](https://festival.pm/) - A lightweight music player designed for local album collections.
 
 ##### Network Protocols
 
