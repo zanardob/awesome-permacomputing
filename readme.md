@@ -92,6 +92,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Vim](https://www.vim.org/) - Highly efficient, customisable, and lightweight text editor.
 - [Micro](https://micro-editor.github.io/) - Lightweight, intuitive terminal-based text editor.
 - [Geany](https://www.geany.org/) - Small, lightweight IDE suitable for basic coding needs.
+- [Nano](https://www.nano-editor.org/) - A lightweight, terminal-based text editor for Unix-like systems.
    
 ##### Tools
 
