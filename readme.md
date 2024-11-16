@@ -48,6 +48,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [What might degrowth computing look like?](https://criticaledtech.com/2022/04/08/what-might-degrowth-computing-look-like/) - Neil Selwyn, 2022.
 - [Low Fat Computing](https://www.ultratechnology.com/lowfat.htm) - Jeff Fox, 1998.
 - [What can a technologist do about climate change?](https://worrydream.com/ClimateChange/#production) - Bret Victor, 2015.
+- [The Staggering Ecological Impacts of Computation and the Cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/) - Steven Gonzalez Monserrate, 2022.
 
 ### Books
 
