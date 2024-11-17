@@ -49,7 +49,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Low Fat Computing](https://www.ultratechnology.com/lowfat.htm) - Jeff Fox, 1998.
 - [What can a technologist do about climate change?](https://worrydream.com/ClimateChange/#production) - Bret Victor, 2015.
 - [The Staggering Ecological Impacts of Computation and the Cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/) - Steven Gonzalez Monserrate, 2022.
-- [It’s Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460) - Nicolas Van Kempen, Hyuk-Je Kwon, Dung Tuan Nguyen, Emery D. Berger, 2024.
+- [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460) - Nicolas Van Kempen, Hyuk-Je Kwon, Dung Tuan Nguyen, Emery D. Berger, 2024.
 
 ### Books
 
