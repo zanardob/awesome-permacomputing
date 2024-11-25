@@ -175,6 +175,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [LURK](https://lurk.org/) - Hosts discussions on decentralised, sustainable computing and new digital environments.
 - [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com/) - Advocates for sustainable design principles in the web industry.
 - [The Green Web Foundation](https://www.thegreenwebfoundation.org/) - An independent non-profit that tracks how much of the internet is powered by green energy.
+- [Varia](https://varia.zone/en/) - Rotterdam-based community focusing on collective approaches to sustainable technology.
   
 ##### Art
 
