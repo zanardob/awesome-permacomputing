@@ -155,6 +155,10 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Repair Café](https://www.repaircafe.org/en/) - Free meeting places for repairing things together.
 - [The Restart Project](https://therestartproject.org/) - Repair education, repair events, and advocacy for the right to repair.
 
+#### Repurposing
+
+- [Unbinare](https://unbina.re/) - An e-waste reverse engineering lab.
+
 ### Experimental
 
 - [Solar Protocol](https://solarprotocol.net/) - Decentralised, solar-powered internet infrastructure.
