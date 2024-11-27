@@ -162,7 +162,7 @@ A curation of resources, projects, and communities related to permacomputing.
 ### Experimental
 
 - [Solar Protocol](https://solarprotocol.net/) - Decentralised, solar-powered internet infrastructure.
-- [Permacomputing as a practice](https://permacomputingasapracticefordigitalgraphicdesign.com/) - Integrating permacomputing principles into graphic design processes.
+- [Permacomputing as a practice](https://permacomputingasapracticefordigitalgraphicdesign.com/) - Integrates permacomputing principles into graphic design processes.
 
 ## Communities
 
