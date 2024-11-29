@@ -163,6 +163,7 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [Solar Protocol](https://solarprotocol.net/) - Decentralised, solar-powered internet infrastructure.
 - [Permacomputing as a practice](https://permacomputingasapracticefordigitalgraphicdesign.com/) - Integrates permacomputing principles into graphic design processes.
+- [Reclaimed Systems](https://reclaimed.systems/) - Conducts research on ethical and sustainable technology, particularly in AI's societal and ecological impacts.
 
 ## Communities
 
