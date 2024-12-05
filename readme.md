@@ -114,6 +114,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [XFE](http://roland65.free.fr/xfe/) - A simple and efficient file manager.
 - [Festival](https://festival.pm/) - A lightweight music player designed for local album collections.
 - [FOX](http://fox-toolkit.org/) - A portable C++ based toolkit for building GUIs.
+- [Zola](https://www.getzola.org/) - A fast static site generator in a single binary.
 
 ##### Network Protocols
 
