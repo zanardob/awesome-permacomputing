@@ -50,6 +50,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [What can a technologist do about climate change?](https://worrydream.com/ClimateChange/#production) - Bret Victor, 2015.
 - [The Staggering Ecological Impacts of Computation and the Cloud](https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/) - Steven Gonzalez Monserrate, 2022.
 - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460) - Nicolas van Kempen, Hyuk-Je Kwon, Dung Tuan Nguyen, and Emery D. Berger, 2024.
+- [The biggest lie tech people tell themselves — and the rest of us](https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics) - Rose Eveleth, 2019.
 
 ### Books
 
