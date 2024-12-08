@@ -23,11 +23,11 @@ A curation of resources, projects, and communities related to permacomputing.
 
 ### Websites
 
-- [Permacomputing](https://permacomputing.net) - A wiki for permacomputing.
+- [Permacomputing](https://permacomputing.net/) - A wiki for permacomputing.
 - [Low-tech Magazine](https://www.lowtechmagazine.com/) - Articles about solving human problems with low-tech solutions.
 - [Monoskop](https://monoskop.org/) - A wiki for arts and studies.
 - [Damaged Earth Catalog](https://damaged.bleu255.com/) - A growing online catalog of the different terms in circulation.
-- [XXIIVV](https://wiki.xxiivv.com/site/home.html) - Ideas and notes on technology, art, language, and philosophy.
+- [XXIIVV](https://wiki.xxiivv.com/) - Ideas and notes on technology, art, language, and philosophy.
 - [The Luddite](https://theluddite.org/) - A skeptical look at technology and its impact on society.
 - [Frugal Computing](https://frugalcomputing.neocities.org/) - Ideas and notes on frugal computing.
 - [Modding Fridays](https://moddingfridays.bleu255.com/) - A wiki about maintenance, repurposing, and reappropriation of supposedly obsolete electronics.
@@ -91,7 +91,7 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [Collapse OS](http://collapseos.org/) - Forth-based operating system designed for post-collapse scenarios.
 - [Tiny Core Linux](http://tinycorelinux.net/) - Small, highly modular system with community build extensions.
-- [Alpine Linux](https://www.alpinelinux.org/) - Secure, lightweight Linux distribution.
+- [Alpine Linux](https://alpinelinux.org/) - Secure, lightweight Linux distribution.
   
 ##### Code Editors
 
@@ -106,7 +106,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [TLP](https://linrunner.de/tlp/) - Linux power management tool to extend battery life.
 - [Hugo](https://gohugo.io/) - Open-source static website generator.
 - [twtxt](https://twtxt.readthedocs.io/en/stable/) - A decentralised, minimalist microblogging platform built on a text-based protocol.
-- [sqlite](https://www.sqlite.org/) - Small, reliable SQL database engine.
+- [sqlite](https://sqlite.org/) - Small, reliable SQL database engine.
 - [Argos Translate](https://www.argosopentech.com/) - An open-source translation tool that runs offline.
 - [NoScript](https://noscript.net/) - An open-source browser extension that allows JavaScript to be executed only on trusted websites of your choice.
 - [CO2.js](https://developers.thegreenwebfoundation.org/co2js/overview/) - A JavaScript library for estimating the carbon emissions associated with software.
