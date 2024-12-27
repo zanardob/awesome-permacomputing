@@ -36,6 +36,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Death to Bullshit](https://blog.deathtobullshit.com/) - Critiques the clutter and misleading tactics common in digital experiences.
 - [Do the Math](https://dothemath.ucsd.edu/) - Explores the physical limits of growth in energy consumption and technological progress.
 - [Branch Magazine](https://branch.climateaction.tech/) - Articles about climate justice and internet sustainability.
+- [Pluralistic](https://pluralistic.net/) - Explores technology, digital rights, and societal issues.
 
 ### Articles
 
