@@ -201,4 +201,5 @@ A curation of resources, projects, and communities related to permacomputing.
 
 - [Permacomputing on the SLRPNK Lemmy instance](https://slrpnk.net/c/permacomputing)
 - [Permacomputing on the SDF Chatter Lemmy instance](https://lemmy.sdf.org/c/permacomputing)
+- [Permacomputing on the Disroot XMPP chat server](xmpp:lowtech@chat.disroot.org?join)
 - [Lobsters](https://lobste.rs/)
