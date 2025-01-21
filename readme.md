@@ -102,7 +102,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Micro](https://micro-editor.github.io/) - Lightweight, intuitive terminal-based text editor.
 - [Geany](https://www.geany.org/) - Small, lightweight IDE suitable for basic coding needs.
 - [Nano](https://www.nano-editor.org/) - A lightweight, terminal-based text editor for Unix-like systems.
-- [Left](https://wiki.xxiivv.com/site/left) - Graphical text editor for the Uxn virtual machine. 18kb
+- [Left](https://wiki.xxiivv.com/site/left) - Graphical text editor for the Uxn virtual machine. 18kb.
    
 ##### Tools
 
