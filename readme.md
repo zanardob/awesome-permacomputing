@@ -127,6 +127,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Tor](https://www.torproject.org/) - A privacy-focused, decentralised network protocol.
 - [Dat Ecosystem](https://dat-ecosystem.org/) - A peer-to-peer protocol and tools for decentralised data sharing.
 - [IPFS](https://ipfs.tech/) - Peer-to-peer file storage and sharing protocol.
+- [Meshtastic](https://meshtastic.org/) - Open-source mesh networking protocol designed for off-grid communication.
 
 ##### Browsers
 
