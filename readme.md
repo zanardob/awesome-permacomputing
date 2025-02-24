@@ -53,6 +53,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460) - Nicolas van Kempen, Hyuk-Je Kwon, Dung Tuan Nguyen, and Emery D. Berger, 2024.
 - [The biggest lie tech people tell themselves — and the rest of us](https://www.vox.com/the-highlight/2019/10/1/20887003/tech-technology-evolution-natural-inevitable-ethics) - Rose Eveleth, 2019.
 - [Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI](https://arxiv.org/pdf/2409.14160) - Gaël Varoquaux, Alexandra Sasha Luccioni, and Meredith Whittaker, 2024.
+- [Redefining our needs: permacomputing and vernacular computing](https://medium.com/data-ai-masters/redefining-our-needs-permacomputing-and-vernacular-computing-ba703bb0f1d9) - Robert Engels, 2022.
 
 ### Books
 
