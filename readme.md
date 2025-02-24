@@ -80,6 +80,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Death by Design](https://www.imdb.com/title/tt5693890/) - Sue Williams, 2016.
 - [The Social Dilemma](https://www.imdb.com/title/tt11464826/) - Jeff Orlowski-Yang, 2020.
 - [Surviving Progress](https://www.imdb.com/title/tt1462014/) - Mathieu Roy and Harold Crooks, 2011.
+- [Low-Tech](https://www.imdb.com/title/tt27434317/) - Adrien Bellay, 2023.
 
 ##### Talks
 
