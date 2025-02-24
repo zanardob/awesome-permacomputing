@@ -97,6 +97,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Collapse OS](http://collapseos.org/) - Forth-based operating system designed for post-collapse scenarios.
 - [Tiny Core Linux](http://tinycorelinux.net/) - Small, highly modular system with community build extensions.
 - [Alpine Linux](https://alpinelinux.org/) - Secure, lightweight Linux distribution.
+- [Plan 9](https://9p.io/plan9/) - Compact and uniform operating system built as a successor to Unix.
   
 ##### Code Editors
 
@@ -123,7 +124,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Zola](https://www.getzola.org/) - A fast static site generator in a single binary.
 - [Uxn](https://100r.co/site/uxn.html) - A portability layer for graphical applications.
 
-##### Network Protocols
+##### Protocols
 
 - [Gemini](https://geminiprotocol.net/) - Minimalist, text-based internet protocol.
 - [Tor](https://www.torproject.org/) - A privacy-focused, decentralised network protocol.
