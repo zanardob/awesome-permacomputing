@@ -159,6 +159,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Fairphone](https://www.fairphone.com/) - Repairable smartphones made with responsibly sourced materials.
 - [pine64](https://pine64.org/) - Devices based on open-source hardware.
 - [Green Arrays](https://www.greenarraychips.com/) - Low power computation platforms.
+- [RC2014](https://rc2014.co.uk/) - A simple 8 bit Z80 based modular computer.
 
 ##### Repairing
 
