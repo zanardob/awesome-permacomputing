@@ -206,6 +206,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Small File Photo Festival](https://unthinking.photography/projects/smallfile/) - A mini festival encouraging and celebrating small size photography.
 - [Tiny Code Christmas](https://tcc.lovebyte.party/) - A yearly jam on low-level graphics programming.
 - [Watt-Wise Game Jam](https://wattwise.games/) - A challenge to build low-energy games.
+- [digicam.love](https://digicam.love/) - Promotes photography taken with old digital cameras.
 
 ### Forums
 
