@@ -203,6 +203,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Fiber Space](https://www.fiber-space.nl/) - Events and workshops exploring permacomputing in creative and digital arts.
 - [Small File Photo Festival](https://unthinking.photography/projects/smallfile/) - A mini festival encouraging and celebrating small size photography.
 - [Tiny Code Christmas](https://tcc.lovebyte.party/) - A yearly jam on low-level graphics programming.
+- [Watt-Wise Game Jam](https://wattwise.games/) - A challenge to build low-energy games.
 
 ### Forums
 
