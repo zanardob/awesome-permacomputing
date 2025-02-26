@@ -57,6 +57,10 @@ A curation of resources, projects, and communities related to permacomputing.
 
 ### Books
 
+##### Fiction
+
+- [The Dispossessed](https://www.ursulakleguin.com/dispossessed) - Ursula K. Le Guin, 1974.
+
 ##### Non-fiction
 
 - [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html) - Eric S. Raymond, 2003.
