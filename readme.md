@@ -80,6 +80,7 @@ A curation of resources, projects, and communities related to permacomputing.
 ##### Fiction
 
 - [Neptune Frost](https://www.imdb.com/title/tt11873472/) - Anisia Uzeyman and Saul Williams, 2021.
+- [Nausicaä of the Valley of the Wind](https://www.imdb.com/title/tt0087544/) - Hayao Miyazaki, 1984.
 
 ##### Documentaries
 
