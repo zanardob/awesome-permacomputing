@@ -60,6 +60,7 @@ A curation of resources, projects, and communities related to permacomputing.
 ##### Fiction
 
 - [The Dispossessed](https://www.ursulakleguin.com/dispossessed) - Ursula K. Le Guin, 1974.
+- [The Fifth Sacred Thing](https://starhawk.org/writing/books/the-fifth-sacred-thing/) - Starhawk, 1993.
 
 ##### Non-fiction
 
